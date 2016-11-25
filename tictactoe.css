@@ -1,0 +1,40 @@
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin-top: 10px;
+  text-align: center;
+  color: green;
+}
+
+td {
+  border: 5px solid black;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.o {
+  color: SteelBlue;
+}
+
+.x {
+  color: SandyBrown;
+}
